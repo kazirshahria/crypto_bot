@@ -1,2 +1,3 @@
-# crypto_gemini
-Python + Gemini API
+# Cryptocurrency Bot
+
+By: Kazi Shahria
